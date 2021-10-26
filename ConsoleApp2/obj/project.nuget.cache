@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QFr677XjO5AQ+efKrzh+fteOSB3zOFvFIa/NJkICWTeX3xdCeBLvcNuJ4DOVdY66gRyOGoxzZm/7Exr2Dm0AfQ==",
+  "dgSpecHash": "y3QYNbKhxSydEbsT+RNmLojT5/7vtFXf3R+ZCRcln9hhKb4Qm5yGUELmeDFIO7Re0teYsKUAPL4vN5JyqhFYyA==",
   "success": true,
   "projectFilePath": "D:\\Спп\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lilil\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
