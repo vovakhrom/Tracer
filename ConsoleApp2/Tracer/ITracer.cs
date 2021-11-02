@@ -1,6 +1,4 @@
-﻿namespace Listsoft
-{
-    namespace Lab_Tracer
+﻿namespace Lab_Tracer
     {
         public interface ITracer
         {
@@ -10,4 +8,3 @@
         }
 
     }
-}

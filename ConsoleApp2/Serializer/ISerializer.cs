@@ -1,8 +1,6 @@
 ﻿using System;
 
-namespace Listsoft
-{
-    namespace Lab_Tracer
+namespace Lab_Tracer
     {
         namespace Serilization
         {
@@ -13,4 +11,3 @@ namespace Listsoft
             }
         }
     }
-}

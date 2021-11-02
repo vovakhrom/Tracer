@@ -1,11 +1,9 @@
 ﻿using System.Threading;
 using System;
-using Listsoft.Lab_Tracer.Writer;
-using Listsoft.Lab_Tracer.Serilization;
+using Lab_Tracer.Writer;
+using Lab_Tracer.Serilization;
 
-namespace Listsoft
-{
-    namespace Lab_Tracer
+namespace Lab_Tracer
     {
         namespace ConsoleTest
         {
@@ -108,4 +106,3 @@ namespace Listsoft
             }
         }
     }
-}

@@ -2,9 +2,8 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System.Threading;
 
-namespace Listsoft
-{
-    namespace Lab_Tracer
+
+namespace Lab_Tracer
     {
         namespace MSTracerTest
         {
@@ -89,4 +88,3 @@ namespace Listsoft
             }
         }
     }
-}

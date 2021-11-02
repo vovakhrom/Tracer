@@ -1,8 +1,6 @@
-﻿using Listsoft.Lab_Tracer.Serilization;
+﻿using Lab_Tracer.Serilization;
 
-namespace Listsoft
-{
-    namespace Lab_Tracer
+namespace Lab_Tracer
     {
         namespace Writer
         {
@@ -28,4 +26,3 @@ namespace Listsoft
             }
         }
     }
-}

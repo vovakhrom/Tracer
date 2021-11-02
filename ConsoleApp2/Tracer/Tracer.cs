@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Collections.Concurrent;
 using System.Diagnostics;
 
-namespace Listsoft
-{
-    namespace Lab_Tracer
+
+namespace Lab_Tracer
     {
         public class SomethingFellOutException : Exception
         {
@@ -107,4 +106,3 @@ namespace Listsoft
             }
         }
     }
-}

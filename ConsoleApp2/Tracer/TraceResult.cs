@@ -1,8 +1,7 @@
 ﻿using System.Collections.Concurrent;
 using System.Collections.Generic;
 
-namespace Listsoft
-{
+
     namespace Lab_Tracer
     {
         public class MethodInfo
@@ -29,4 +28,3 @@ namespace Listsoft
             public List<MethodInfo> methods = new List<MethodInfo>();
         }
     }
-}

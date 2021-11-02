@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace Listsoft
-{
     namespace Lab_Tracer
     {
         namespace Serilization
@@ -12,6 +10,7 @@ namespace Listsoft
             {
                 public string Serialize(TraceResult traceResult)
                 {
+                    //список с результатами потоков
                     List<ThreadItem> items = new List<ThreadItem>();
                     foreach (var thread in traceResult.threads)
                     {
@@ -37,4 +36,3 @@ namespace Listsoft
             }
         }
     }
-}
